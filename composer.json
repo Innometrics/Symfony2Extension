@@ -17,13 +17,10 @@
     ],
 
     "require": {
-        "php":                       ">=5.3.3",
-        "innometrics/behat":         "3.0.6",
-        "symfony/framework-bundle":  "2.1"
+        "php":                       ">=5.3.3"
     },
 
     "require-dev": {
-        "symfony/symfony":               "2.1",
         "behat/mink-extension":          "~2.0",
         "behat/mink-browserkit-driver":  "~1.0",
         "phpspec/phpspec":               "~2.0",
